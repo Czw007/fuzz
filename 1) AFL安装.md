@@ -16,8 +16,6 @@ make install
 （如果需要root权限，加sudo）
 ```
 
-
-
-![image-20220712221327207](C:\Users\常志伟\Documents\Git-Project\fuzz\images\image-20220712221327207.png)
+![image-20220712221615154](images/image-20220712221615154.png)
 
 安装完成
